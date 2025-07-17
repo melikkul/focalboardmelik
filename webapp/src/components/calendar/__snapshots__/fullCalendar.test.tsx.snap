@@ -129,7 +129,7 @@ exports[`components/calendar/toolbar return calendar, no date property 1`] = `
                                   aria-label="Sunday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Sun
+                                  Pzr
                                 </a>
                               </div>
                             </th>
@@ -144,7 +144,7 @@ exports[`components/calendar/toolbar return calendar, no date property 1`] = `
                                   aria-label="Monday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Mon
+                                  Pzt
                                 </a>
                               </div>
                             </th>
@@ -159,7 +159,7 @@ exports[`components/calendar/toolbar return calendar, no date property 1`] = `
                                   aria-label="Tuesday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Tue
+                                  Salı
                                 </a>
                               </div>
                             </th>
@@ -174,7 +174,7 @@ exports[`components/calendar/toolbar return calendar, no date property 1`] = `
                                   aria-label="Wednesday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Wed
+                                  Çar
                                 </a>
                               </div>
                             </th>
@@ -189,7 +189,7 @@ exports[`components/calendar/toolbar return calendar, no date property 1`] = `
                                   aria-label="Thursday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Thu
+                                  Per
                                 </a>
                               </div>
                             </th>
@@ -204,7 +204,7 @@ exports[`components/calendar/toolbar return calendar, no date property 1`] = `
                                   aria-label="Friday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Fri
+                                  Cum
                                 </a>
                               </div>
                             </th>
@@ -219,7 +219,7 @@ exports[`components/calendar/toolbar return calendar, no date property 1`] = `
                                   aria-label="Saturday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Sat
+                                  Cmt
                                 </a>
                               </div>
                             </th>
@@ -2403,7 +2403,7 @@ exports[`components/calendar/toolbar return calendar, with date property not set
                                   aria-label="Sunday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Sun
+                                  Pzr
                                 </a>
                               </div>
                             </th>
@@ -2418,7 +2418,7 @@ exports[`components/calendar/toolbar return calendar, with date property not set
                                   aria-label="Monday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Mon
+                                  Pzt
                                 </a>
                               </div>
                             </th>
@@ -2433,7 +2433,7 @@ exports[`components/calendar/toolbar return calendar, with date property not set
                                   aria-label="Tuesday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Tue
+                                  Salı
                                 </a>
                               </div>
                             </th>
@@ -2448,7 +2448,7 @@ exports[`components/calendar/toolbar return calendar, with date property not set
                                   aria-label="Wednesday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Wed
+                                  Çar
                                 </a>
                               </div>
                             </th>
@@ -2463,7 +2463,7 @@ exports[`components/calendar/toolbar return calendar, with date property not set
                                   aria-label="Thursday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Thu
+                                  Per
                                 </a>
                               </div>
                             </th>
@@ -2478,7 +2478,7 @@ exports[`components/calendar/toolbar return calendar, with date property not set
                                   aria-label="Friday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Fri
+                                  Cum
                                 </a>
                               </div>
                             </th>
@@ -2493,7 +2493,7 @@ exports[`components/calendar/toolbar return calendar, with date property not set
                                   aria-label="Saturday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Sat
+                                  Cmt
                                 </a>
                               </div>
                             </th>
@@ -4677,7 +4677,7 @@ exports[`components/calendar/toolbar return calendar, with date property set 1`]
                                   aria-label="Sunday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Sun
+                                  Pzr
                                 </a>
                               </div>
                             </th>
@@ -4692,7 +4692,7 @@ exports[`components/calendar/toolbar return calendar, with date property set 1`]
                                   aria-label="Monday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Mon
+                                  Pzt
                                 </a>
                               </div>
                             </th>
@@ -4707,7 +4707,7 @@ exports[`components/calendar/toolbar return calendar, with date property set 1`]
                                   aria-label="Tuesday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Tue
+                                  Salı
                                 </a>
                               </div>
                             </th>
@@ -4722,7 +4722,7 @@ exports[`components/calendar/toolbar return calendar, with date property set 1`]
                                   aria-label="Wednesday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Wed
+                                  Çar
                                 </a>
                               </div>
                             </th>
@@ -4737,7 +4737,7 @@ exports[`components/calendar/toolbar return calendar, with date property set 1`]
                                   aria-label="Thursday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Thu
+                                  Per
                                 </a>
                               </div>
                             </th>
@@ -4752,7 +4752,7 @@ exports[`components/calendar/toolbar return calendar, with date property set 1`]
                                   aria-label="Friday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Fri
+                                  Cum
                                 </a>
                               </div>
                             </th>
@@ -4767,7 +4767,7 @@ exports[`components/calendar/toolbar return calendar, with date property set 1`]
                                   aria-label="Saturday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Sat
+                                  Cmt
                                 </a>
                               </div>
                             </th>
@@ -6957,7 +6957,7 @@ exports[`components/calendar/toolbar return calendar, without permissions 1`] = 
                                   aria-label="Sunday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Sun
+                                  Pzr
                                 </a>
                               </div>
                             </th>
@@ -6972,7 +6972,7 @@ exports[`components/calendar/toolbar return calendar, without permissions 1`] = 
                                   aria-label="Monday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Mon
+                                  Pzt
                                 </a>
                               </div>
                             </th>
@@ -6987,7 +6987,7 @@ exports[`components/calendar/toolbar return calendar, without permissions 1`] = 
                                   aria-label="Tuesday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Tue
+                                  Salı
                                 </a>
                               </div>
                             </th>
@@ -7002,7 +7002,7 @@ exports[`components/calendar/toolbar return calendar, without permissions 1`] = 
                                   aria-label="Wednesday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Wed
+                                  Çar
                                 </a>
                               </div>
                             </th>
@@ -7017,7 +7017,7 @@ exports[`components/calendar/toolbar return calendar, without permissions 1`] = 
                                   aria-label="Thursday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Thu
+                                  Per
                                 </a>
                               </div>
                             </th>
@@ -7032,7 +7032,7 @@ exports[`components/calendar/toolbar return calendar, without permissions 1`] = 
                                   aria-label="Friday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Fri
+                                  Cum
                                 </a>
                               </div>
                             </th>
@@ -7047,7 +7047,7 @@ exports[`components/calendar/toolbar return calendar, without permissions 1`] = 
                                   aria-label="Saturday"
                                   class="fc-col-header-cell-cushion "
                                 >
-                                  Sat
+                                  Cmt
                                 </a>
                               </div>
                             </th>
