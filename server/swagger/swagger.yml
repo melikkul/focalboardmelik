@@ -112,13 +112,13 @@ host: localhost
 info:
     contact:
         email: api@focalboard.com
-        name: Focalboard
+        name: BGMBoard
         url: https://www.focalboard.com
-    description: Focalboard Server
+    description: BGMBoard Server
     license:
         name: Custom
         url: https://github.com/mattermost/focalboard/blob/main/LICENSE.txt
-    title: Focalboard Server
+    title: BGMBoard Server
     version: 2.0.0
 paths:
     /api/v2/teams/{teamID}/notifyadminupgrade:

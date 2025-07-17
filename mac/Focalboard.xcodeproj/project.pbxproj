@@ -153,9 +153,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		80D6DEB6252E13CB00AEED9E /* Focalboard */ = {
+		80D6DEB6252E13CB00AEED9E /* BGMBoard */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 80D6DEDD252E13CD00AEED9E /* Build configuration list for PBXNativeTarget "Focalboard" */;
+			buildConfigurationList = 80D6DEDD252E13CD00AEED9E /* Build configuration list for PBXNativeTarget "BGMBoard" */;
 			buildPhases = (
 				80D6DEB3252E13CB00AEED9E /* Sources */,
 				80D6DEB4252E13CB00AEED9E /* Frameworks */,
@@ -166,8 +166,8 @@
 			);
 			dependencies = (
 			);
-			name = Focalboard;
-			productName = Focalboard;
+			name = BGMBoard;
+			productName = BGMBoard;
 			productReference = 80D6DEB7252E13CB00AEED9E /* Focalboard.app */;
 			productType = "com.apple.product-type.application";
 		};

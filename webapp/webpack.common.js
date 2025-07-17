@@ -87,12 +87,12 @@ function makeCommonConfig() {
         plugins: [
             new CopyPlugin({
                 patterns: [
-                    {from: path.resolve(__dirname, 'static'), to: 'static'},
+                    { from: path.resolve(__dirname, 'static'), to: 'static' },
                 ],
             }),
             new HtmlWebpackPlugin({
                 inject: true,
-                title: 'Focalboard',
+                title: 'BGMBoard',
                 chunks: ['main'],
                 template: 'html-templates/page.ejs',
                 filename: 'index.html',
